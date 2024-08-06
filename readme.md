@@ -2,7 +2,7 @@
 
 ## Proje Açıklaması
 
-Bu proje, klasik "Hanoi Kuleleri" problemini çözmek için üç farklı yöntemi içerir: rekursif çözüm, iteratif çözüm ve grafiksel gösterim. Program, kullanıcıya bu yöntemlerin her birini deneme imkanı sunar ve her iki çözüm türü için adım sayısını hesaplar. Grafiksel gösterim seçeneği, kullanıcıya çözüm sürecini görsel olarak sunar.
+Klasik "Hanoi Kuleleri" problemini çözmek için üç farklı yöntemi içerir: rekursif çözüm, iteratif çözüm ve grafiksel gösterim. Program, kullanıcıya bu yöntemlerin her birini deneme imkanı sunar ve her iki çözüm türü için adım sayısını hesaplar. Grafiksel gösterim seçeneği, kullanıcıya çözüm sürecini görsel olarak sunar.
 
 ## İçerik
 
